@@ -22,7 +22,7 @@ You need to additionally download the following data and code:
    Availabe at http://vision.csd.uwo.ca/code/
 
 Modify the file paths in Run_Benchmark.m and run it.
-Note that this code may produce slightly different results from the ones originally reported in [2], 
+Note that this code may produce slightly different results from the ones originally reported in [1], 
 where another C++ implementation was used.
 
 
