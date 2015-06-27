@@ -14,10 +14,10 @@ the aforementioned paper in any resulting publication.
 # HOW TO USE
 You need to additionally download the following data and code:
 
-1) GrabCut Dataset  
+1. GrabCut Dataset  
    Available at http://research.microsoft.com/en-us/um/cambridge/projects/visionimagevideoediting/segmentation/grabcut.htm
 
-2) MATLAB Wrapper of the Boykov-Kolmogorov max-flow min-cut algorithm  
+2. MATLAB Wrapper of the Boykov-Kolmogorov max-flow min-cut algorithm  
    Availabe at http://vision.csd.uwo.ca/code/
 
 Modify the file paths in Run_Benchmark.m and run it.
