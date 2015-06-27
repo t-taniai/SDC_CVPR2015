@@ -1,4 +1,4 @@
-# Superdifferential Cuts for Binary Energies (CVPR 2015)
+# Superdifferential Cuts for Binary Energies
 
 ## ABOUT THIS SOFTWARE
 This software implements the binary energy minimization method presented in
