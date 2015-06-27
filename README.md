@@ -1,5 +1,6 @@
+# Superdifferential Cuts for Binary Energies (CVPR 2015)
 
-# ABOUT THIS SOFTWARE
+## ABOUT THIS SOFTWARE
 This software implements the binary energy minimization method presented in
 
 > [1]  "Superdifferential Cuts for Binary Energies"  
@@ -11,7 +12,7 @@ If you use this software for research purposes, you should cite
 the aforementioned paper in any resulting publication.
 
 
-# HOW TO USE
+## HOW TO USE
 You need to additionally download the following data and code:
 
 1. GrabCut Dataset  
@@ -25,12 +26,12 @@ Note that this code may produce slightly different results from the ones origina
 where another C++ implementation was used.
 
 
-# FEATURES
+## FEATURES
 Currently the code only implements the histogram matching segmentation using L1 and L2-distance (Type-1).
 Algorithms for Type-2 (fractional higher-order energies) and Type-3 (pairwise non-submodular energies)
 will be implemented in the future.
 
 
-# HISTORY
-## v.1.0.0	(06/26/2015)  
+## HISTORY
+### v.1.0.0	(06/26/2015)  
 - Released the MATLAB implementation for the Type-1 algorithm.
