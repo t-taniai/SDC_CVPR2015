@@ -35,3 +35,5 @@ will be implemented in the future.
 ## HISTORY
 #### v.1.0.0	(06/26/2015)  
 - Released the MATLAB implementation for the Type-1 algorithm.
+
+Copyright (c) Tatsunori Taniai  All Rights Reserved.
